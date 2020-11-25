@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_actionbar">4dp</dimen>
+    <dimen name="cardView_marginBottom">14dp</dimen>
+    <dimen name="cardView_corner">4dp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+</resources>
